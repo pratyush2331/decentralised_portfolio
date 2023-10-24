@@ -1,4 +1,22 @@
-# Decentralize Portfolio
+# Decentralised Portfolio Images
+
+![Screenshot (1519)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/d04f29cb-2aaf-4f34-ab0a-17f3615ad46b)
+![Screenshot (1520)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/296857f5-ed63-4e64-b028-9f5895d0f315)
+![Screenshot (1521)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/1861e602-8b27-4c1e-803e-c97aac2c8a09)
+![Screenshot (1522)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/454ed02f-02ee-4aff-8dda-b429383801b0)
+![Screenshot (1523)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/2eccada5-a18e-4ceb-b537-6a2778a6532f)
+![Screenshot (1524)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/7209569c-b47d-4f84-812b-2ba4327f078e)
+![Screenshot (1525)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/c4403bf9-1e1c-4b5a-aab9-0fac1c81d33e)
+![Screenshot (1526)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/a50ae168-88b3-49fc-8c95-637817e3d0f1)
+![Screenshot (1527)](https://github.com/pratyush2331/decentralised_portfolio/assets/72189926/0feb16dc-e876-4493-b56b-97c2bf33b0c1)
+
+
+
+
+
+
+
+# Decentralised Portfolio
 
 Decentralize Portfolio is a decentralized application (DApp) built on the Ethereum blockchain that allows users to create and manage their digital portfolios. This project aims to provide a secure, transparent, and censorship-resistant platform for individuals to showcase their work and accomplishments.
 
