@@ -20,13 +20,13 @@ To run the Decentralize Portfolio starter project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kshitijofficial/Decentralize-Portfolio.git
+   git clone https://github.com/pratyush2331/decentralised_portfolio.git
    ```
 
 2. Navigate to the starterCode directory:
 
    ```bash
-   cd Decentralize-Portfolio/starterCode
+   cd decentralised_portfolio/starterCode
    ```
 
 3. Navigate to the client directory:
@@ -56,13 +56,13 @@ To run the Decentralize Portfolio final project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kshitijofficial/Decentralize-Portfolio.git
+   git clone https://github.com/pratyush2331/decentralised_portfolio.git
    ```
 
 2. Navigate to the finalCode directory:
 
    ```bash
-   cd Decentralize-Portfolio/finalCode
+   cd decentralised_portfolio/finalCode
    ```
 
 3. Navigate to the client directory:
@@ -96,4 +96,4 @@ Decentralize Portfolio is built using the following technologies:
 - [Hardhat](https://hardhat.org/) - Development environment for Ethereum smart contracts.
 - [IPFS](https://ipfs.io/) - Decentralized storage for portfolio data.
 - [Web3.js](https://web3js.readthedocs.io/) - JavaScript library for interacting with Ethereum.
-- [Metamask](https://metamask.io/)
+- [Metamask](https://metamask.io/) - A software cryptocurrency wallet used to interact with the Ethereum blockchain.
